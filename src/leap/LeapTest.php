@@ -1,6 +1,6 @@
 <?php
 
-require 'Leap.php';
+require 'isLeap.php';
 
 class YearTest extends PHPUnit\Framework\TestCase {
 
