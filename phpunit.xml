@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpunit colors="always">
+<testsuite name="Code Katas">
+	<directory suffix="Test.php">./src</directory>
+</testsuite>
+</phpunit>

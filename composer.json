@@ -1,0 +1,15 @@
+{
+    "name": "danktuary/code-katas-php",
+    "authors": [
+        {
+            "name": "Sanctuary",
+            "email": "sanc.pw@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "scripts": {
+        "test": "phpunit --colors=always"
+    }
+}
